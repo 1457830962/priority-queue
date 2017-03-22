@@ -1,2 +1,2 @@
 # priority-queue
-A priority queue implemented using a dynamic array that doubles in size when the queue is full and shrinks so the array size is never 3 times the number of elements.  The array contains PriorityItem objects.  A priority object has an int member variable that represents the priority and a generic member variable that contains the data of the item. [note: will separate into appropriate header and cpp files soon]
+a priority queue implemented using a dynamic array that doubles in size when the queue is full and shrinks so the array size is never 3 times the number of elements.  generic data type with an 'int' priority.
